@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SchoolManagment](#)
 
-- 🌱 I’m currently learning **Full Stack Devlopment**
+- 🌱 I’m currently learning **Mern Full Stack Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://pocketimmigration.com/](https://pocketimmigration.com/)
 
